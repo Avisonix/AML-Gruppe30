@@ -6,3 +6,4 @@ Vi overskriver gerne filer her, når vi laver nye versioner af rensede data.
 Eksempler:
 - data/processed/clean_data.csv
 - data/processed/features_ready.csv
+
