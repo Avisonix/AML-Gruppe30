@@ -7,3 +7,5 @@
 #  - fjerne duplikater
 #
 # Kort sagt: gøre data klar til at træne vores model.
+
+

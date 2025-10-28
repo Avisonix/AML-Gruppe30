@@ -16,6 +16,12 @@ src/aml/
   train.py        → træn model (Kan fx starte med LinearRegression)
   evaluate.py     → mål hvor god modellen er (fx  R^2)
 
+Inprogess/        → Stedet hvor kode der ikke er færdigt kan gemmes og udvikles for at undgå spaghetti kode 
+  Ida/            
+  Nicolai/        
+  Tobias/         
+  Sofie/          
+
 data/
   raw/            → rå data (originale filer, rør dem ikke direkte, men import dem til hvor du skal bruge dem)
   processed/      → rensede/færdigbearbejdede data
